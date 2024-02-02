@@ -1,0 +1,5 @@
+__ini_:
+@app.route("/fr/")
+def monfr():
+  return "<h2>Bonjour <h2>"
+  
